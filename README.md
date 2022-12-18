@@ -9,7 +9,7 @@ Our study is based on the STRIP system. First, we made a full comprehension of t
   ### (2). MNIST
   ### (3). GTSRB
 ## 2. Robustness of STRIP
-  ### (1). Application of Trigger B and C on Fashion MNIST
+   ### (1). Application of Trigger B and C on Fashion MNIST
   ### (2). Application of Goolge logo image trigger
   ### (3). Random generation of solid and hollow rectangular triggers
   ### (4). Change of the opacity in trigger image
